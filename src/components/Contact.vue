@@ -81,4 +81,15 @@ export default {
     }
   }
 }
+
+@media (max-width: 1023px) { 
+  .mediaList {
+    padding: 10px 0px;
+
+    .mediaIcon {
+      height: 32px;
+      width: 32px;
+    }
+  }
+}
 </style>
